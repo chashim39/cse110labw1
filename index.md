@@ -1,19 +1,20 @@
-# Hello
-## This
-### Is
-#### The
-##### Heading
+# This
+## Page
+### Makes
+#### No
+##### Sense
 # 
 
-**Ooh! It's Bolded Text** <br>
-*This text is italicized. That's crazy!* <br>
+**Why are cats great?** <br>
+*They're fluffy, cute, and smart* <br>
 
-> Did you know this text is quoted?
+> Think I'm lying? According to vetted, verified sources:
 
 ```
-Nah. THIS is quoted.
+Cats are cool.
 ```
-
+Source: <br>
+![]()
 Look at this cute [cat video](https://www.youtube.com/shorts/2eDXQuXGejw).
 
 Now, look at this cute cat<br>
@@ -21,6 +22,7 @@ Now, look at this cute cat<br>
 
 Ok Ok Ok. Is this one cuter? <br>
 ![](cats/cat-1647775__340.jpg) <br>
+# New topics now: <br>
 It's saying "read me", so you should [read it](README.md) <br>
 <br>
 **My Grocery List:**
